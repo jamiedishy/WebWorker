@@ -1,0 +1,11 @@
+name = "my-worker"
+type = "webpack"
+account_id = "06b588aa1648ef7adfe69018d9ff578b"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[dev]
+port=8000
+local_protocol="http"
+upstream_protocol="https"
